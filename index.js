@@ -1,0 +1,1 @@
+mongoimport --db users --collection people --drop --file "C:/Users/Lúcio/Desktop/mongodb/people.json" --jsonArray
